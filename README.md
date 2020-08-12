@@ -1,0 +1,2 @@
+# Strapi application for Portfolio
+
